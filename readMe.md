@@ -1,0 +1,2 @@
+# Hackerrank solutions bank
+I have been solving Hackerrank for some time now, but I happen to misplace my solutions almost all the time. I thought it will be nice to save my solutions somewhere, so I make reference anytime I want.
